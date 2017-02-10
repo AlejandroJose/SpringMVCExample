@@ -1493,3 +1493,6 @@
 2017-13-10 11:13:03 DEBUG ManagerServlet:31 = - doGet
 2017-13-10 11:13:20 DEBUG ManagerServlet:31 = - doGet
 2017-45-10 11:45:08 DEBUG LoginServlet:73 = LoginServlet - init()
+2017-49-10 11:49:50 DEBUG LoginServlet:73 = LoginServlet - init()
+2017-50-10 11:50:02 DEBUG LoginServlet:73 = LoginServlet - init()
+2017-01-10 13:01:08 DEBUG LogoutServlet:20 = LogoutServlet - doGet
