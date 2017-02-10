@@ -7,7 +7,18 @@
 	<packaging>war</packaging>
 	<name>SuperHeroERS</name>
 
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
 	<dependencies>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.5</version>
+		</dependency>
+
 		<!-- jstl -->
 		<dependency>
 			<groupId>jstl</groupId>
